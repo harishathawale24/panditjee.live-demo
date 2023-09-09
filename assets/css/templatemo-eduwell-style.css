@@ -191,6 +191,7 @@ body {
 .text-button a {
   font-size: 14px;
   font-weight: 500;
+  margin-left: 65px;
   color: #dc8cdb;
   text-decoration: underline !important;
   transition: all .3s;
@@ -918,6 +919,7 @@ section.our-puja-type ul.nacc li .right-content h4 {
   font-size: 20px;
   color: #111;
   margin-bottom: 25px;
+  margin-left: 60px;
   font-weight: 800;
 }
 
@@ -929,7 +931,8 @@ section.our-puja-type ul.nacc li .right-content ul {
 section.our-puja-type ul.nacc li .right-content span {
   font-size: 14px;
   font-weight: 600;
-  margin-right: 30px;
+  margin-left: 65px;
+  margin-right: -30px;
   padding-right: 30px;
   border-right: 2px solid #111;
 }
@@ -942,6 +945,7 @@ section.our-puja-type ul.nacc li .right-content .last-span {
 
 section.our-puja-type ul.nacc li .right-content p {
   margin-bottom: 20px;
+  margin-left: 60px;
 }
 
 section.our-puja-type ul.nacc li .right-content .text-button {
