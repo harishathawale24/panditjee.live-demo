@@ -1077,7 +1077,7 @@ section.testimonials:after {
 }
 
 .testimonials .item img {
-  max-width: 44px;
+  max-width: 66px;
   z-index: 2;
   position: absolute;
   right: 30px;
@@ -1745,6 +1745,13 @@ section.more-info .count-area-content .count-title {
   justify-content: center;
   flex-wrap: wrap;
 }
+.our-services .card h2{
+  font-size: 1.875rem;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  color: #303335;
+}
 .card{
   background: white;
   width: 450px;
@@ -1759,19 +1766,21 @@ position: center center;
 border-radius: 15px 15px 0 0 ;
 }
 .img-1{
-  background-image: url(/assets/photo/ourservices1.jpg);
+  background-image: url(/assets/photo/shiv\ puja.jpg);
 }
 .img-2{
-  background-image: url(/assets/photo/shivji.jpg);
+  background-image: url(/assets/photo/demo2.jpg);
 }
 .img-3{
-  background-image: url(/assets/photo/laxmiji.jpg);
+  background-image: url(/assets/photo/kaal\ sarp\ dosh\ \(2\).jpg);
 }
 .img-4{
   background-image: url(/assets/photo/krishnaji.jpg);
 }
 .card p{
   padding: 10px;
+  color: gray;
+  text-align: justify;
 }
 .card a{
   background-color: black;
